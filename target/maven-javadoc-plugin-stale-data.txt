@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+-locale
+'pt_BR'
+-classpath
+'C:/Users/Azevedo/.m2/repository/com/example/sqlcomponent/1.0-SNAPSHOT/sqlcomponent-1.0-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Azevedo/Desktop/componentuserapp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Azevedo/Desktop/componentuserapp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'componentuserapp 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Azevedo/Desktop/componentuserapp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'componentuserapp 1.0-SNAPSHOT API'
+br.ucsal.pooa
+'C:/Users/Azevedo/Desktop/componentuserapp/src/main/java/br/ucsal/pooa/Main.java'
+C:\Users\Azevedo\.m2\repository\com\example\sqlcomponent\1.0-SNAPSHOT\sqlcomponent-1.0-SNAPSHOT.jar = 1717606728942
+C:\Users\Azevedo\Desktop\componentuserapp\src\main\java = 1717600396234
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\allclasses-index.html = 1717607434743
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\allpackages-index.html = 1717607434749
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\copy.svg = 1717607434844
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\element-list = 1717607434649
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\help-doc.html = 1717607434821
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\index-all.html = 1717607434785
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\index.html = 1717607434795
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\link.svg = 1717607434847
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\member-search-index.js = 1717607434760
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\module-search-index.js = 1717607434752
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\overview-tree.html = 1717607434718
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\package-search-index.js = 1717607434754
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\script.js = 1717607434840
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\search-page.js = 1717607434859
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\search.html = 1717607434791
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\search.js = 1717607434856
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\stylesheet.css = 1717607434834
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\tag-search-index.js = 1717607434763
+C:\Users\Azevedo\Desktop\componentuserapp\target\site\apidocs\type-search-index.js = 1717607434756
