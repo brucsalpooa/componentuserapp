@@ -16,8 +16,8 @@ Certifique-se de incluir o componente SQL como uma dependência em seu projeto M
 </dependency>
 ```
 
-##Uso
+## Uso
 Você pode usar a classe SqlQueryBuilder do componente SQL em seu código Java.
 
-##Documentação
+## Documentação
 A documentação Javadoc está disponível no diretório target/site/apidocs após a compilação do projeto. Você pode gerar a documentação usando o comando Maven mvn javadoc:javadoc.
